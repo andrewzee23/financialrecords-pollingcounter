@@ -1,7 +1,5 @@
 ## PyBank
 
-![Revenue](Images/revenue-per-lead.png)
-
 * Tasked with creating a Python script for analyzing the financial records. 
 * Financial Data [budget_data.csv](PyBank/Resources/budget_data.csv). 
 * The dataset is composed of two columns: `Date` and `Profit/Losses`.
@@ -31,8 +29,6 @@
   ```
 
 ## PyPoll
-
-![Vote Counting](Images/Vote_counting.png)
 
 * Tasked with helping a small, rural town modernize its vote counting process.
 * Poll Data [election_data.csv](PyPoll/Resources/election_data.csv). 
